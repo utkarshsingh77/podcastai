@@ -27,7 +27,7 @@ To set up the project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/gabrielchua/open-pdf2podcast.git
+   git clone https://github.com/utkarshsingh77/podcastai.git
    cd pdf-to-podcast
    ```
 
